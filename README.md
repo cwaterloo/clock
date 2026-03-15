@@ -4,4 +4,5 @@ Simple Functional Clock in SVG
 
 ## Usage
 
-Simply use [clock.svg](https://raw.githubusercontent.com/cwaterloo/clock/refs/heads/main/clock.svg) as an image.
+Download [this](https://github.com/cwaterloo/clock/archive/refs/heads/main.zip)
+repository and use `clock.svg` file as an image. E.g. open it in a browser.
